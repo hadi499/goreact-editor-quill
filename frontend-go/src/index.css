@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ql-editor{
+  height: none;
+}
+.ql-blank{
+  height: 100px
+}
